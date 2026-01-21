@@ -117,6 +117,33 @@ ________________________________________
 •	Customers prefer 1–4 installments, with some opting up to 24
 
 •	A small number of undefined payment types exist
+
+________________________________________
+📈 **Key Insights**
+
+•	Identified high-performing product categories and seasonal trends
+
+•	Analyzed pricing patterns and customer demand
+
+•	Observed customer segmentation based on purchase behavior
+
+•	Highlighted opportunities for optimizing promotions and inventory management
+________________________________________
+📊 **Visualizations**
+
+The project includes various visualizations such as:
+
+•	Time-series analysis of sales performance
+
+•	City-wise revenue distribution analysis
+
+•	Geographic distribution of customers across cities
+
+•	Trend analysis of payment methods
+
+•	City-level freight cost distribution
+
+•	Delivery time distribution analysis
 ________________________________________
 🛠 **Tools & Technologies**
 
@@ -129,6 +156,8 @@ ________________________________________
 •	CTEs (WITH clauses)
 
 •	Date & Time Functions
+
+• Tableau for Visualizations
 ________________________________________
 📈 **Business Value**
 
