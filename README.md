@@ -1,4 +1,4 @@
-                                                    📊 Target E-commerce Data Analysis (Brazil)
+                                              📊 Target E-commerce Data Analysis (Brazil)
 📌 Project Overview
 
 This project presents an in-depth SQL-based exploratory and analytical study of Target’s e-commerce operations in Brazil. The analysis focuses on customer behavior, order trends, geographic distribution, logistics performance, payments, and economic impact using structured queries on relational datasets.
