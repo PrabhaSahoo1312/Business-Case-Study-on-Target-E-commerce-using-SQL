@@ -121,13 +121,14 @@ ________________________________________
 ________________________________________
 📈 **Key Insights**
 
-•	Identified high-performing product categories and seasonal trends
+•	Orders grew significantly year-over-year, with peak demand in mid-year months
 
-•	Analyzed pricing patterns and customer demand
+•	São Paulo (SP) emerged as the highest revenue-generating state
 
-•	Observed customer segmentation based on purchase behavior
+•	Remote states experienced higher freight costs and longer delivery times
 
-•	Highlighted opportunities for optimizing promotions and inventory management
+•	Credit cards dominated payment methods, with most users preferring short installment plans
+
 ________________________________________
 📊 **Visualizations**
 
